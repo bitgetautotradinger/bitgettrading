@@ -4,4 +4,5 @@
 AI bitget auto trading
 
 
-![background](https://github.com/user-attachments/assets/817ff86d-4424-424d-bbce-2629be349041)
+
+![Capture](https://github.com/user-attachments/assets/452affa6-140e-4101-b8fa-d6466a0f9b4c)
